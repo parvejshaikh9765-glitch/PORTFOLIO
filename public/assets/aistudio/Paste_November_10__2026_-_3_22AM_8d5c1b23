@@ -1,0 +1,1182 @@
+MASTER PROJECT BRIEF
+BUILD A COMPLETE PREMIUM PERSONAL PORTFOLIO WEBSITE FROM SCRATCH
+
+Act as a senior full-stack software engineer, UI/UX designer, product architect, creative director and database engineer.
+
+Your task is to design, develop, test and deploy a complete, production-ready personal portfolio website from scratch.
+
+Do not simply create a visual mockup, static landing page or frontend demonstration. Build a complete working website with a functional backend, database, secure admin dashboard, media management system and full ownership transfer.
+
+I want the final product to be a sophisticated, professional, visually distinctive personal portfolio that I can manage independently without requiring a developer for routine updates.
+
+The website must be fully functional, responsive, secure, editable and deployable.
+
+---
+
+PART 1: PROJECT IDENTITY AND OBJECTIVE
+
+1.1 About the Portfolio Owner
+
+The portfolio belongs to:
+
+Name: Pravesh Shaikh
+
+Academic Background:
+- Currently pursuing a Master's in Development Studies at the Tata Institute of Social Sciences (TISS), Mumbai.
+- Undergraduate academic background in Geography and History.
+
+Academic and Professional Interests:
+- Development Studies
+- Urban Development
+- Environmental Sustainability
+- ESG and CSR
+- Public Policy and Governance
+- Sustainable Development
+- Research and Data Analysis
+- Community Development
+- Social Impact
+- Monitoring, Evaluation and Learning
+- Rural Development and Livelihoods
+
+Relevant Experience:
+- Field Research Intern at Digital Empowerment Foundation, Solapur.
+- Experience involving field research and digital literacy support among traditional textile worker communities.
+- Research interests involving sustainable livelihoods, local development and community-level development processes.
+
+Important:
+Treat the information above as initial profile information, not a complete CV. Allow every field to be edited from the admin dashboard.
+
+Do not invent qualifications, job titles, organisations, project outcomes, awards, publications, statistics or professional achievements.
+
+Use only information provided by me or supported by documents I upload.
+
+Where information is missing, use clearly marked editable placeholders rather than fabricated information.
+
+1.2 Overall Objective
+
+Build a premium personal portfolio that communicates:
+
+- Who I am.
+- What I study and work on.
+- My professional interests.
+- My academic and practical experience.
+- My research capabilities.
+- Projects I have undertaken.
+- My skills and competencies.
+- My publications and research outputs.
+- My professional journey.
+- How organisations, recruiters, researchers and collaborators can contact me.
+
+The website should establish a credible professional identity and help me present my work to potential employers, consulting organisations, research institutions, development organisations, international organisations and collaborators.
+
+---
+
+PART 2: DESIGN REFERENCE AND CREATIVE DIRECTION
+
+2.1 Primary Design Reference
+
+Study the following website carefully:
+
+https://sals.academy/
+
+Use it as the primary UI/UX inspiration.
+
+Study its:
+
+- Homepage structure.
+- Navigation.
+- Typography.
+- Hero section.
+- Content hierarchy.
+- Image placement.
+- Editorial layouts.
+- Section transitions.
+- Content cards.
+- Visual balance.
+- Footer.
+- Responsive behaviour.
+
+Do not reproduce its website exactly.
+
+It is an institutional website, whereas my website is an individual professional portfolio.
+
+Adapt its design principles to create a distinctive personal brand.
+
+2.2 Desired Visual Identity
+
+The website should feel:
+
+- Premium.
+- Minimalist.
+- Editorial.
+- Sophisticated.
+- Professional.
+- Contemporary.
+- Research-oriented.
+- Visually engaging.
+- Internationally presentable.
+
+Avoid the appearance of a generic AI-generated portfolio.
+
+The website should look as though it has been carefully designed by an experienced creative agency.
+
+2.3 Colour Palette
+
+Develop a consistent colour system.
+
+Suggested direction:
+
+- Warm off-white or ivory for primary backgrounds.
+- Deep charcoal for primary text.
+- Muted forest green or olive for selected accents.
+- Deep navy for selected visual elements.
+- Light grey or stone for secondary backgrounds.
+
+Do not use every colour everywhere.
+
+Maintain visual restraint and consistency.
+
+Provide:
+- Primary colour.
+- Secondary colour.
+- Accent colour.
+- Background colour.
+- Surface colour.
+- Primary and secondary text colours.
+- Border colours.
+
+2.4 Typography
+
+Use a sophisticated typography system.
+
+Consider combinations such as:
+- Editorial serif typography for large headlines.
+- Clean sans-serif typography for body content.
+- A restrained monospaced or small uppercase style for metadata and categories.
+
+Use fonts that are legible and available through reliable font services or locally hosted files.
+
+Maintain:
+- Clear heading hierarchy.
+- Appropriate line heights.
+- Readable paragraph widths.
+- Consistent font weights.
+- Strong contrast.
+
+2.5 Layout Principles
+
+Use:
+- Large typography.
+- Generous whitespace.
+- Editorial grids.
+- Asymmetrical layouts where appropriate.
+- Large, high-quality images.
+- Carefully arranged content sections.
+- Full-width visual moments.
+- Subtle borders and separators.
+- Consistent spacing.
+
+Avoid:
+- Excessive rounded cards.
+- Unnecessary gradients.
+- Excessive shadows.
+- Glassmorphism everywhere.
+- Repetitive three-card layouts.
+- Unnecessary animations.
+- Crowded sections.
+- Oversized icons.
+- Generic template-like layouts.
+
+---
+
+PART 3: WEBSITE ARCHITECTURE
+
+Create the following public-facing website pages.
+
+3.1 Homepage
+
+The homepage must immediately communicate my identity and professional direction.
+
+Section A: Navigation
+
+Create a clean navigation bar containing:
+
+- Name or personal wordmark.
+- Home.
+- About.
+- Experience.
+- Projects.
+- Research.
+- Skills.
+- Contact.
+- Resume download.
+
+The navigation should be responsive.
+
+On mobile, use a clean collapsible navigation menu.
+
+Include a subtle scroll effect if appropriate.
+
+Section B: Hero
+
+Create a visually striking opening section.
+
+Include:
+
+- My name: Pravesh Shaikh.
+- A strong professional headline.
+- A concise introduction.
+- A professional portrait or selected visual.
+- A call-to-action to explore my work.
+- A secondary option to download my CV.
+- Location or academic affiliation, if appropriate.
+
+Possible headline direction:
+
+"Exploring the intersections of Development, Policy, Sustainability and People."
+
+Do not make the headline sound exaggerated or artificial.
+
+The introduction should communicate my interests in development, research, governance and sustainability.
+
+Use a carefully composed layout inspired by the reference website.
+
+Section C: Introduction
+
+Create a concise introduction explaining:
+
+- My academic journey.
+- My interest in Development Studies.
+- My interdisciplinary background.
+- My interest in understanding development challenges through research and field engagement.
+
+Make this section visually interesting using typography and photography.
+
+Section D: Areas of Interest
+
+Create an editorial-style section presenting my areas of interest:
+
+1. Urban Development.
+2. Environmental Sustainability.
+3. ESG and CSR.
+4. Public Policy and Governance.
+5. Research and Data Analysis.
+6. Sustainable Livelihoods.
+7. Community Development.
+8. Monitoring and Evaluation.
+
+Each category should have:
+- Title.
+- Short description.
+- Optional image or visual.
+- Relevant projects linked to it.
+
+These categories must be editable through the backend.
+
+Section E: Selected Projects
+
+Display selected projects in a visually distinctive layout.
+
+Each project card should contain:
+- Cover photograph.
+- Project title.
+- Short description.
+- Category.
+- Organisation, where applicable.
+- Year or duration.
+- View project link.
+
+Use varied layouts rather than repeating identical cards.
+
+Allow projects to be featured, reordered and filtered by category.
+
+Section F: Experience
+
+Display professional experience and internships through a clean editorial timeline.
+
+Each entry should include:
+
+- Organisation.
+- Designation.
+- Duration.
+- Location.
+- Description.
+- Responsibilities.
+- Key contributions.
+- Supporting images or documents, if available.
+
+Do not invent missing details.
+
+Section G: Research and Publications
+
+Showcase:
+- Research papers.
+- Academic assignments worth presenting.
+- Fieldwork.
+- Research reports.
+- Policy briefs.
+- Publications.
+- Presentations.
+- Conference contributions.
+
+Use publication-style layouts.
+
+Each item should support:
+- Title.
+- Abstract or description.
+- Author information.
+- Publication date.
+- Institution or publisher.
+- Document attachment.
+- External link.
+
+Section H: Skills and Competencies
+
+Create a structured skills section.
+
+Potential categories:
+
+Research:
+- Qualitative Research.
+- Quantitative Research.
+- Field Research.
+- Literature Review.
+- Research Documentation.
+
+Data and Analytical Tools:
+- Excel.
+- STATA.
+- SPSS.
+- R.
+- QGIS.
+
+Development Practice:
+- Monitoring and Evaluation.
+- Theory of Change.
+- Logical Frameworks.
+- Social Impact Assessment.
+- Programme Management.
+- Stakeholder Engagement.
+
+Policy and Sustainability:
+- ESG.
+- CSR.
+- Environmental Sustainability.
+- Governance Research.
+- Sustainable Development.
+
+Important: These are initial categories. Only display individual tools and competencies as established skills after I confirm my proficiency. Every entry must be editable.
+
+Section I: Education
+
+Display:
+- Institution.
+- Programme or degree.
+- Duration.
+- Location.
+- Relevant academic focus.
+- Supporting information.
+
+Use a sophisticated timeline or editorial layout.
+
+Section J: Contact
+
+Create a professional contact section with:
+
+- Email.
+- LinkedIn.
+- Other verified professional links.
+- A contact form.
+- A clear invitation for professional collaborations and relevant opportunities.
+
+Include appropriate form validation and spam protection.
+
+Section K: Footer
+
+Include:
+- Name.
+- Short professional description.
+- Navigation.
+- LinkedIn.
+- Email.
+- Copyright notice.
+- Privacy policy.
+- Back-to-top interaction.
+
+---
+
+PART 4: DEDICATED INNER PAGES
+
+Do not put every detail on the homepage.
+
+Create dedicated pages for the following.
+
+4.1 About Me
+
+Include:
+- Detailed biography.
+- Academic background.
+- Professional interests.
+- Development philosophy.
+- Research interests.
+- Personal professional journey.
+- Photograph.
+
+Use editorial storytelling.
+
+4.2 Experience
+
+Create a complete experience page with:
+- Employment.
+- Internships.
+- Research engagements.
+- Fieldwork.
+- Volunteering, if applicable.
+
+Each entry should open into a detailed experience page or expandable view.
+
+4.3 Projects
+
+Create a dedicated project listing page.
+
+Include:
+- Project categories.
+- Search.
+- Filters.
+- Featured projects.
+- Project images.
+- Project summaries.
+
+Each project should have a dedicated URL.
+
+4.4 Individual Project Pages
+
+Each project must support:
+
+1. Project title.
+2. Cover image.
+3. Organisation.
+4. Project duration.
+5. Project category.
+6. Background and context.
+7. Problem statement.
+8. Objectives.
+9. My role.
+10. Methodology.
+11. Tools and approaches.
+12. Activities undertaken.
+13. Findings.
+14. Outcomes.
+15. Photographs.
+16. Reports and documents.
+17. Related projects.
+
+Use a strong visual storytelling format.
+
+Only include sections for which actual information is available.
+
+4.5 Research and Publications
+
+Create a dedicated research repository.
+
+Support:
+- Research papers.
+- Reports.
+- Policy briefs.
+- Presentations.
+- Working papers.
+- Academic projects.
+
+Allow filtering by year and category.
+
+4.6 Resume
+
+Create a professional resume page with:
+
+- Short profile.
+- Education.
+- Experience.
+- Skills.
+- Research.
+- Projects.
+- Downloadable CV.
+
+The CV must be uploaded and replaced through the admin panel.
+
+4.7 Contact
+
+Create a dedicated contact page with:
+- Contact form.
+- Email.
+- LinkedIn.
+- Professional location, if approved.
+- Appropriate collaboration message.
+
+---
+
+PART 5: ADVANCED UI/UX REQUIREMENTS
+
+5.1 Animations
+
+Implement restrained and polished animations:
+
+- Smooth scrolling.
+- Subtle fade-in effects.
+- Image reveal transitions.
+- Text entrance animations.
+- Hover interactions.
+- Section transitions.
+- Navigation interactions.
+
+Animations should enhance the experience, not distract from content.
+
+Respect reduced-motion accessibility preferences.
+
+5.2 Image Presentation
+
+Images are an important part of the portfolio.
+
+Support:
+- High-resolution photographs.
+- Project images.
+- Professional portraits.
+- Fieldwork photographs.
+- Research-related images.
+- Document covers.
+- Image galleries.
+
+Use consistent image treatment and responsive cropping.
+
+Never stretch images or compromise their proportions.
+
+5.3 Responsive Design
+
+Test the website at:
+
+- Large desktop.
+- Standard laptop.
+- Tablet.
+- Mobile.
+- Small mobile screens.
+
+Do not simply shrink the desktop design.
+
+Create properly considered mobile layouts.
+
+5.4 Accessibility
+
+Implement:
+- Semantic HTML.
+- Keyboard navigation.
+- Accessible forms.
+- Alternative text for images.
+- Sufficient colour contrast.
+- Visible focus states.
+- Screen-reader-friendly labels.
+- Reduced-motion support.
+
+---
+
+PART 6: COMPLETE ADMIN DASHBOARD AND CMS
+
+THIS IS A CRITICAL REQUIREMENT.
+
+I must have complete control over the website after development.
+
+Create a separate, secure admin dashboard at:
+
+`/admin`
+
+The admin dashboard must be functional and connected to the actual database.
+
+It must not be a decorative dashboard with non-functional buttons.
+
+6.1 Admin Authentication
+
+Create:
+- Secure administrator login.
+- Logout.
+- Password reset.
+- Secure session management.
+- Password hashing.
+- Role-based permissions.
+
+Initially, create one super administrator: me.
+
+Do not expose the admin panel or sensitive information to public visitors.
+
+6.2 Admin Dashboard Overview
+
+Display:
+- Total published projects.
+- Draft projects.
+- Total publications.
+- Total experience entries.
+- Total uploaded media files.
+- Recent updates.
+- Recent contact submissions.
+
+Include clear navigation to every management section.
+
+6.3 Page Management
+
+I must be able to:
+
+- Create new pages.
+- Edit existing pages.
+- Delete pages.
+- Duplicate pages.
+- Change page titles.
+- Edit headings.
+- Edit paragraphs.
+- Change images.
+- Reorder sections.
+- Add new sections.
+- Hide sections.
+- Publish and unpublish pages.
+- Preview changes.
+- Manage SEO metadata.
+
+For routine updates, I must not need to modify source code.
+
+6.4 Homepage Management
+
+Create a dedicated homepage editor.
+
+Allow me to edit:
+- Hero headline.
+- Introductory paragraph.
+- Portrait.
+- Background image.
+- CTA text.
+- CTA destinations.
+- Featured projects.
+- Areas of interest.
+- Experience highlights.
+- Research highlights.
+- Contact information.
+
+6.5 Project Management
+
+Create a full project CMS.
+
+Allow me to:
+- Add a project.
+- Edit a project.
+- Delete a project.
+- Duplicate a project.
+- Upload a cover image.
+- Add multiple project photographs.
+- Edit project descriptions.
+- Add objectives and findings.
+- Add methodology.
+- Add project dates.
+- Add categories and tags.
+- Attach PDFs.
+- Add external links.
+- Feature projects.
+- Reorder projects.
+- Publish and unpublish projects.
+
+New projects must automatically appear on the public website.
+
+6.6 Experience Management
+
+Allow me to:
+- Add experience.
+- Edit experience.
+- Delete experience.
+- Upload organisation logos.
+- Add descriptions.
+- Change dates.
+- Reorder experience entries.
+
+6.7 Research Management
+
+Allow me to:
+- Add research publications.
+- Upload reports.
+- Upload PDFs.
+- Add abstracts.
+- Add author information.
+- Add publication dates.
+- Add external links.
+- Categorise publications.
+- Edit or remove entries.
+
+6.8 Education Management
+
+Allow me to add, edit, reorder and delete educational qualifications.
+
+6.9 Skills Management
+
+Allow me to:
+- Add skills.
+- Edit descriptions.
+- Create categories.
+- Reorder skills.
+- Remove outdated entries.
+
+6.10 Contact Management
+
+Allow me to:
+- View contact submissions.
+- Read messages.
+- Mark messages as read.
+- Archive messages.
+- Delete spam.
+- Export submissions where appropriate.
+
+---
+
+PART 7: MEDIA LIBRARY AND PHOTO MANAGEMENT
+
+Create a dedicated media library.
+
+I must be able to manage all images and files from one place.
+
+Features:
+
+- Upload single or multiple images.
+- Upload PDFs.
+- Upload documents.
+- Upload certificates.
+- Upload presentations.
+- Create folders or categories.
+- Search uploaded files.
+- Rename files.
+- Delete files.
+- Replace files.
+- Preview files.
+- Add image descriptions.
+- Add alternative text.
+- Select media when editing any page.
+- Reuse existing media across different sections.
+
+When I replace an image used on a page, the updated image should appear correctly on the live website.
+
+Implement image optimisation and secure file validation.
+
+Do not store important uploaded files only in temporary server storage.
+
+---
+
+PART 8: BACKEND AND DATABASE ARCHITECTURE
+
+Build a real backend.
+
+First assess the best architecture for the project.
+
+A suitable default stack, if compatible with the development environment:
+
+Frontend:
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+
+Backend:
+- Next.js server-side functionality or a dedicated backend API.
+- Secure server-side validation.
+
+Database:
+- PostgreSQL.
+
+Authentication:
+- A secure authentication system with administrator access.
+
+Media Storage:
+- Persistent cloud object storage or an equivalent durable storage solution.
+
+Deployment:
+- A production hosting platform with support for the selected stack.
+
+You may recommend alternatives if they provide better reliability, maintainability or value.
+
+Do not introduce unnecessary technologies.
+
+Database should support:
+
+- Admin users.
+- Pages.
+- Page sections.
+- Projects.
+- Project categories.
+- Experience.
+- Education.
+- Skills.
+- Publications.
+- Media files.
+- Contact submissions.
+- SEO metadata.
+- Content revisions.
+- Audit logs.
+
+Use appropriate relationships and constraints.
+
+Ensure that content remains available after redeployment or server restarts.
+
+Do not use browser local storage as the primary database.
+
+---
+
+PART 9: COMPLETE OWNERSHIP AND CONTROL
+
+This requirement is non-negotiable.
+
+I must own and control the entire website.
+
+All major accounts should be created using my email address and under my control.
+
+I must have administrator access to:
+
+1. Domain registrar.
+2. Domain DNS settings.
+3. Hosting platform.
+4. GitHub repository.
+5. Database.
+6. Media storage.
+7. Admin dashboard.
+8. Authentication provider.
+9. Analytics account.
+10. Email or contact-form service.
+11. API accounts and integrations.
+
+I must receive:
+
+- Complete source code.
+- Full GitHub repository ownership.
+- Backend source code.
+- Database access.
+- Database schema.
+- Database export.
+- Hosting administrator access.
+- Storage administrator access.
+- Deployment configuration.
+- Environment variable documentation.
+- API integration documentation.
+- Backup instructions.
+- Restoration instructions.
+- Maintenance documentation.
+
+Do not deploy the website exclusively under the developer's personal account.
+
+Do not retain exclusive access to any critical service.
+
+Do not hardcode secret keys into public frontend code.
+
+Create an `.env.example` file containing variable names and descriptions, without actual secret values.
+
+---
+
+PART 10: SECURITY AND DATA PROTECTION
+
+Implement:
+
+- Secure authentication.
+- Password hashing.
+- Server-side authorisation.
+- Input validation.
+- Secure file-upload validation.
+- File type and size restrictions.
+- Rate limiting.
+- Spam protection.
+- Protection against common web vulnerabilities.
+- Secure session handling.
+- Environment-based secrets.
+- Database backups.
+- Audit logs.
+- Error handling.
+
+Only authenticated and authorised administrators may edit website content.
+
+Public visitors must never be able to access private admin functionality.
+
+Do not expose contact submissions or private data publicly.
+
+---
+
+PART 11: SEO AND PERFORMANCE
+
+Implement proper SEO.
+
+Include:
+- Unique page titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Social sharing images.
+- Canonical URLs.
+- Sitemap.
+- Robots.txt.
+- Structured data where appropriate.
+- Descriptive image alt text.
+- Search-engine-friendly URLs.
+
+Performance requirements:
+- Optimised images.
+- Responsive image sizes.
+- Lazy loading where appropriate.
+- Efficient frontend rendering.
+- Minimal unnecessary JavaScript.
+- Caching where appropriate.
+- Fast page loading.
+
+Test performance and accessibility before deployment.
+
+---
+
+PART 12: CONTACT FORM AND INTEGRATIONS
+
+Create a working contact form.
+
+Fields:
+- Name.
+- Email.
+- Organisation, optional.
+- Subject.
+- Message.
+
+Requirements:
+- Client-side and server-side validation.
+- Spam protection.
+- Successful submission feedback.
+- Secure database storage.
+- Email notifications through a configured service.
+- Admin access to submitted messages.
+
+Do not pretend that email notifications work until a real email provider has been configured and tested.
+
+Allow me to manage social media links and external links through the admin panel.
+
+---
+
+PART 13: CONTENT MANAGEMENT AND EDITING EXPERIENCE
+
+The admin panel should be easy enough for a non-technical person to use.
+
+Create intuitive forms with:
+- Clear field labels.
+- Rich text editing.
+- Image selection.
+- Document upload.
+- Save buttons.
+- Draft and publish controls.
+- Preview functionality.
+- Confirmation before destructive actions.
+- Success and error messages.
+
+Where appropriate, provide:
+- Drag-and-drop image uploads.
+- Drag-and-drop section ordering.
+- Automatic saving of drafts.
+- Content revision history.
+- Restore previous versions.
+
+Changes should be reflected on the public website without requiring a new code deployment.
+
+---
+
+PART 14: DEVELOPMENT WORKFLOW
+
+Follow this sequence.
+
+Phase 1: Planning and Architecture
+
+1. Review the complete requirements.
+2. Establish the design system.
+3. Plan the website sitemap.
+4. Define the database schema.
+5. Select the technology stack.
+6. Design the admin dashboard architecture.
+7. Identify external services and dependencies.
+
+Do not stop at planning. Continue implementation.
+
+Phase 2: Design and Frontend
+
+1. Create the homepage.
+2. Create all inner pages.
+3. Establish typography and colours.
+4. Implement responsive layouts.
+5. Add image treatments.
+6. Implement interactions.
+7. Ensure design consistency.
+
+Phase 3: Backend Development
+
+1. Configure the database.
+2. Build authentication.
+3. Create database models.
+4. Develop APIs.
+5. Implement admin functionality.
+6. Implement content management.
+7. Implement media storage.
+8. Connect the frontend to the backend.
+
+Phase 4: CMS Development
+
+Implement all page, project, research, experience, education, skills and media management functions.
+
+Phase 5: Integration
+
+Connect every public page to its corresponding backend content.
+
+All dynamic content must be manageable through the admin dashboard.
+
+Phase 6: Testing
+
+Test:
+- Login and logout.
+- Page creation.
+- Page editing.
+- Page deletion.
+- Image uploads.
+- Image replacement.
+- PDF uploads.
+- Project creation.
+- Project editing.
+- Publication management.
+- Experience management.
+- Contact submissions.
+- Publishing and unpublishing.
+- Responsive behaviour.
+- Database persistence.
+- Security and access controls.
+
+Do not mark a feature complete merely because its interface exists.
+
+Phase 7: Deployment
+
+Deploy the actual website to a production environment.
+
+Configure:
+- Domain.
+- DNS.
+- Hosting.
+- Database.
+- Storage.
+- Environment variables.
+- SSL.
+- Production builds.
+
+If I have not yet provided a domain or account credentials, prepare the project for deployment and tell me precisely what action is required. Never pretend deployment has happened if it has not.
+
+---
+
+PART 15: FINAL QUALITY ASSURANCE
+
+Before considering the website complete, conduct a complete quality audit.
+
+Public Website Checklist
+
+- All pages work.
+- All navigation links work.
+- All images load correctly.
+- Project pages display correctly.
+- Contact form works.
+- CV download works.
+- Mobile layout works.
+- No broken links.
+- No placeholder text on pages marked as finished.
+- No fabricated professional information.
+- No console errors.
+- No major accessibility issues.
+
+Admin Dashboard Checklist
+
+- Login works.
+- Authentication is secure.
+- All content sections are editable.
+- Images can be uploaded.
+- Existing images can be replaced.
+- Projects can be created and edited.
+- Pages can be created and edited.
+- PDFs can be uploaded.
+- Content can be published.
+- Content persists in the database.
+- Changes appear on the live website.
+- Backups can be created and restored.
+
+Ownership Checklist
+
+- I control the domain.
+- I control the hosting account.
+- I own the GitHub repository.
+- I have database access.
+- I have storage access.
+- I have administrator access.
+- I have the complete source code.
+- I have deployment documentation.
+- I have backup documentation.
+
+---
+
+PART 16: FINAL DELIVERABLES
+
+At the end of the project, provide:
+
+1. Complete production-ready portfolio website.
+2. Fully functional public-facing frontend.
+3. Complete backend.
+4. Secure admin dashboard.
+5. Working content management system.
+6. Media library.
+7. Database and schema documentation.
+8. Complete source code.
+9. GitHub repository.
+10. Deployment configuration.
+11. `.env.example` file.
+12. Database backup and restoration procedure.
+13. Admin user setup instructions.
+14. Website maintenance documentation.
+15. Ownership and access handover checklist.
+16. A demonstration of the working website and admin panel.
+
+Provide a list of completed features and clearly identify anything that remains dependent on my account setup or external services.
+
+---
+
+PART 17: RULES YOU MUST FOLLOW
+
+1. Build the actual product, not just a design preview.
+2. Do not stop after creating the homepage.
+3. Do not use fake buttons or non-functional dashboard elements.
+4. Do not invent my personal achievements or professional history.
+5. Do not use random stock photographs as if they were my actual experiences.
+6. Do not remove important content without approval.
+7. Do not make the website dependent on your personal accounts.
+8. Do not expose sensitive credentials.
+9. Do not use temporary storage for permanent media.
+10. Do not claim a feature works without testing it.
+11. Do not claim the website is deployed without successful deployment.
+12. Do not leave unfinished pages disguised as completed pages.
+13. Make sensible technical decisions independently when requirements are sufficiently clear.
+14. Ask me only when an essential decision requires my input.
+15. Keep the code modular, maintainable and documented.
+
+If the development environment supports autonomous coding, file editing, terminal commands, database setup and deployment, use those capabilities to complete the project.
+
+If a required external service needs my authorisation, explain exactly what I need to approve or configure.
+
+FINAL EXPECTATION
+
+I want a complete, premium, internationally presentable personal portfolio website inspired by the editorial design language of SALS Academy, with a distinctive identity of its own.
+
+It must combine:
+
+- Exceptional UI/UX.
+- Strong personal branding.
+- Professional storytelling.
+- Dedicated project pages.
+- Research and publication showcases.
+- Responsive design.
+- A real backend.
+- A fully functional admin dashboard.
+- Complete media management.
+- Independent content editing.
+- Secure database architecture.
+- Full source-code and infrastructure ownership.
+
+The final website should be ready for real-world professional use.
+
+Start by planning the architecture and design system, then proceed to build the entire product. Do not stop until the working website, backend and administrative system have been implemented, tested and prepared for deployment.
